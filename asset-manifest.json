@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/atcoffeebreak-react/static/css/main.584f321a.chunk.css",
-    "main.js": "/atcoffeebreak-react/static/js/main.eb66fd4e.chunk.js",
-    "main.js.map": "/atcoffeebreak-react/static/js/main.eb66fd4e.chunk.js.map",
+    "main.css": "/atcoffeebreak-react/static/css/main.ab1e248f.chunk.css",
+    "main.js": "/atcoffeebreak-react/static/js/main.29ac8c0a.chunk.js",
+    "main.js.map": "/atcoffeebreak-react/static/js/main.29ac8c0a.chunk.js.map",
     "runtime~main.js": "/atcoffeebreak-react/static/js/runtime~main.5a2d80a4.js",
     "runtime~main.js.map": "/atcoffeebreak-react/static/js/runtime~main.5a2d80a4.js.map",
-    "static/js/2.b41502e9.chunk.js": "/atcoffeebreak-react/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/atcoffeebreak-react/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.266e55a5.chunk.css": "/atcoffeebreak-react/static/css/2.266e55a5.chunk.css",
+    "static/js/2.83016d00.chunk.js": "/atcoffeebreak-react/static/js/2.83016d00.chunk.js",
+    "static/js/2.83016d00.chunk.js.map": "/atcoffeebreak-react/static/js/2.83016d00.chunk.js.map",
     "index.html": "/atcoffeebreak-react/index.html",
-    "precache-manifest.1026542ca00f1164923496a0e810858f.js": "/atcoffeebreak-react/precache-manifest.1026542ca00f1164923496a0e810858f.js",
+    "precache-manifest.d01e9ea7caba5882ee9e15e55b3f8cf5.js": "/atcoffeebreak-react/precache-manifest.d01e9ea7caba5882ee9e15e55b3f8cf5.js",
     "service-worker.js": "/atcoffeebreak-react/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/atcoffeebreak-react/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/atcoffeebreak-react/static/media/logo.5d5d9eef.svg"
+    "static/css/2.266e55a5.chunk.css.map": "/atcoffeebreak-react/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.ab1e248f.chunk.css.map": "/atcoffeebreak-react/static/css/main.ab1e248f.chunk.css.map"
   }
 }
